@@ -11,5 +11,9 @@ public class TestDisplay {
 		for (int i : data) {
 			System.out.println("Test : " +i);
 		}
+		for (int y = 0; y < 10; y++) {
+			System.out.println("i: " + y);
+
+		}
 	}
 }
