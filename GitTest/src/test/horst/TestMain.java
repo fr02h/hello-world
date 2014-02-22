@@ -12,5 +12,8 @@ public class TestMain {
 	public void display()
 	{
 		System.out.println("test header");
+		
+		TestDisplay display = new TestDisplay();
+		display.display();
 	}
 }
