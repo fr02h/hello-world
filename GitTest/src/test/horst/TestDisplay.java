@@ -6,7 +6,7 @@ public class TestDisplay {
 	{
 		System.out.println("TestDisplay");
 		
-		int[] data = { -1,-2,-3,-4,-5};
+		int[] data = { -1,-2,-3,-4,-5,1,2,3,4,5};
 		
 		for (int i : data) {
 			System.out.println("Test : " +i);
