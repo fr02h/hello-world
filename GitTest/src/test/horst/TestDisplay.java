@@ -10,6 +10,7 @@ public class TestDisplay {
 
 		for (int i : data) {
 			System.out.println("Test : " +i);
+			System.out.println("------------------------------");
 		}
 
 		for (int y = 0; y < 10; y++) {
@@ -22,5 +23,7 @@ public class TestDisplay {
 			System.out.println("------------------------------");
 			System.out.println("--------------XXX----------------");
 		}
+		
+		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 	}
 }
