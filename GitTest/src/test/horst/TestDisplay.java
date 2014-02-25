@@ -10,11 +10,14 @@ public class TestDisplay {
 		
 		for (int i : data) {
 			System.out.println("Test : " +i);
+			System.out.println("------------------------------");
 		}
 		
 		for (int z = 0; z < 10; z++) {
 			System.out.println("z: " + z);
 			System.out.println("------------------------------");
 		}
+		
+		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 	}
 }
