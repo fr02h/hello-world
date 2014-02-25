@@ -5,7 +5,7 @@ public class TestDisplay {
 	public void display()
 	{
 		System.out.println("TestDisplay");
-		
+		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 		int[] data = { -1,-2,-3,-4,-5,1,2,3,4,5};
 
 		for (int i : data) {
