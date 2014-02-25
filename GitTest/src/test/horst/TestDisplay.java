@@ -23,7 +23,7 @@ public class TestDisplay {
 			System.out.println("------------------------------");
 			System.out.println("--------------XXX----------------");
 		}
-		
+		System.out.println("Release 1");
 		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 	}
 }
